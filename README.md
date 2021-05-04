@@ -18,7 +18,7 @@ Langkah ketiga adalah membuat file "style.css" dan kemudian silahkan anda copy d
 Setelah selesai semua silahkan anda membuat folder baru "img" dan taruh di folder "UTS 1" untuk asset gambarnya anda bisa download di Google.
 
 ## 5. Simpan dan Lihat Tampilan
-Setelah semua selesai dilakukan langkah terakhr adalah menyimpan semua file yang dibuat tadi. Kemudian silahkan anda tarik file "company-profile.html" ke dalam browser yang telah disiapkan.
+Setelah semua selesai dilakukan langkah terakhr adalah menyimpan semua file yang dibuat tadi. Kemudian silahkan anda tarik file "Web Company Profile.html" ke dalam browser yang telah disiapkan.
 
 ![1](https://user-images.githubusercontent.com/56240386/117033258-66375280-ad2c-11eb-895f-ef2d38360d4c.png)
 ![2](https://user-images.githubusercontent.com/56240386/117033265-68011600-ad2c-11eb-831b-438d0042e9af.png)
