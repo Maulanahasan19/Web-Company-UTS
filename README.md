@@ -9,3 +9,6 @@ Langkah pertama yang anda lakukan adalah membuat sebuah folder baru dan beri nam
 ## 2. Membuat File : company-profile.html
 Langkah kedua yang anda lakukan adalah membuka text editor, dan buat sebuah file "Web Company Profile.html" berekstansi .html (hypertext markup language). Jika sudah silahkan anda copy dan tempelkan kode script dibawah ini.
 [web company Profile.txt](https://github.com/Maulanahasan19/Web-Company-UTS/files/6422221/web.company.Profile.txt)
+
+## 3. Buat File : style.css
+Langkah ketiga adalah membuat file "style.css" dan kemudian silahkan anda copy dan tempelkan ke file tersebut.
