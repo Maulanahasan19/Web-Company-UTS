@@ -1,4 +1,4 @@
-# Web-Company-UTS
+# Web Company Profile
 
 ## Langkah Membuat Web Company Profile
 Panduan lengkap untuk membuat sebuah web company profile sederhana dan keren sebagai berikut.
